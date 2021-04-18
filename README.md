@@ -1,2 +1,2 @@
-# <img src="https://emoji.gg/assets/emoji/2016_pepe_thinking.png" width="50" height="50"/> ›› Biographie
+# <img src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" width="45" height="45"/> <h1>Biographie</h1>
 > Test
