@@ -9,18 +9,17 @@
 
 > 🐦**Twitter:** https://twitter.com/RomarinTV
 
-`🧠 Language & Skills`
+`🧠 Language & Skill`
 > <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" />
 > <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" />
 
-
 > <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" />
-> <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" />
 > <img alt="Typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-plain.svg" />
+> <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" />
 
 > <img alt="ReactJS" width="26px" src="https://cdn.svgporn.com/logos/react.svg" />
 > <img alt="VueJS" width="26px" src="https://cdn.svgporn.com/logos/vue.svg" />
 
-> <img alt="MongoDB" width="26px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
+> <img alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 > <img alt="MySQL" width="26px" src="https://cdn.svgporn.com/logos/mysql.svg" />
 #
