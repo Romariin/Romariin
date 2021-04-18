@@ -10,7 +10,7 @@
 > 🐦**Twitter:** https://twitter.com/RomarinTV
 # 
 `🧠 Languages appris`
-> Voici une liste non exhaustif des languages que j'ai pu apprendre.
+Voici une liste non exhaustif des languages que j'ai pu apprendre.
 
 `🔴 Languages`
 > <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" />
