@@ -5,10 +5,9 @@
 --------------
 `🌐 Réseaux`
 > 🔗 **Site:** https://romarin.dev
-# 
+
 > 📲 **Discord:** Romarin#1337
-# 
+
 > 🐦**Twitter:** https://twitter.com/RomarinTV
-# 
 
 #
