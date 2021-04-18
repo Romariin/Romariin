@@ -8,7 +8,7 @@
 > 📲 **Discord:** https://discord.bio/p/Romarin
 
 > 🐦**Twitter:** https://twitter.com/RomarinTV
-
+# 
 `🧠 Languages appris`
 > Voici une liste non exhaustif des languages que j'ai pu apprendre.
 
