@@ -9,9 +9,9 @@
 
 > 🐦**Twitter:** https://twitter.com/RomarinTV
 
-`🧠 Language & Skill`
-
-`🔴 Language`
+`🧠 Languages appris`
+> Voici une liste non exhaustif des languages que j'ai pu apprendre.
+`🔴 Languages`
 > <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" />
 > <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" />
 > <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" />
