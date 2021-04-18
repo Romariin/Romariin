@@ -4,6 +4,6 @@
 
 #  
 `🌐 Réseaux`
-> 🔗 **Site:** https://romarin.dev
-> 📲 **Discord:** Romarin#1337
-> 🐦**Twitter:** https://twitter.com/RomarinTV
+> 🔗 **Site:** https://romarin.dev\n
+> 📲 **Discord:** Romarin#1337\n
+> 🐦**Twitter:** https://twitter.com/RomarinTV\n
