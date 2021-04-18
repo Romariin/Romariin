@@ -2,7 +2,7 @@
 `📖 Biographie`
 > Je me nomme Romain (aka Romarin), 21 ans, née le 05 Novembre 1999 aux Lilas. Actuellement en vadrouille dans la France pour effectuer ces études dans le Développement Web.
 
------------------
+--------------
 `🌐 Réseaux`
 > 🔗 **Site:** https://romarin.dev
 > 📲 **Discord:** Romarin#1337
