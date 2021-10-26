@@ -1,25 +1,35 @@
-# <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1eb-1f1f7.png" width="20" height="20"/> **Romarin / Romain R.**
-`📖 Biographie`
-> Je me nomme Romain (aka Romarin), 21 ans, né le 05 Novembre 1999 aux Lilas. Actuellement en vadrouille dans la France pour ses études dans le Développement Web.
+# *👋 Hello World*
+### ❓ Qui suis-je
+ - Je me nomme **Romain** *(aka Romarin)*
+ - 21 ans et toutes mes dents
+ - Junior Dev Web
+### 🌱 Projets
+ -  🙇‍♂️ Étudiant **[La Fabrique du Numérique](https://fabriquenumerique.fr/)** \
+    ➥ `Formation Développeur Web & Web Mobile`
+ - 🧠 Lead. Dev **[YSL](https://discord.gg/4zYfYhdHAW)** \
+    ➥ `Projet BOT Discord — Service de listing de serveur`
+### 🌐 Réseaux
+<a href="https://romarin.dev"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-323330?style=flat-square&logo=icloud&logoColor=white"/></a>
+<a href="https://discord.bio/p/Romarin"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a> 
+<a href="https://twitter.com/RomarinTV"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 
-`🌐 Réseaux`
-> 🔗 **Site:** https://romarin.dev
-
-> 📲 **Discord:** https://discord.bio/p/Romarin
-
-> 🐦**Twitter:** https://twitter.com/RomarinTV
 # 
-`🔴 Langage de programmation`
-> <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" />
-> <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" />
-> <img alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" />
-> <img alt="Typescript" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-plain.svg" />
-> <img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" />
-`🔵 Framework Front`
-> <img alt="ReactJS" width="45px" src="https://cdn.svgporn.com/logos/react.svg" />
-> <img alt="VueJS" width="45px" src="https://cdn.svgporn.com/logos/vue.svg" />
-
-`🟢 SQL & No-SQL`
-> <img alt="MongoDB" width="45px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
-> <img alt="MySQL" width="45px" src="https://cdn.svgporn.com/logos/mysql.svg" />
-#
+### 🌿 Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-323330?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-323330?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=flat-square&logo=TypeScript)
+### 🎨 Technologies Front-End
+![React.JS](https://img.shields.io/badge/-React-323330?style=flat-square&logo=React)
+![React Native](https://img.shields.io/badge/-React%20Native-323330?style=flat-square&logo=React)
+![VueJS](https://img.shields.io/badge/-VueJS-323330?style=flat-square&logo=vue.js)
+### 📊 Technologies Back-End
+![Nodejs](https://img.shields.io/badge/-Node.JS-323330?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-323330?style=flat-square&logo=express)
+![PHP](https://img.shields.io/badge/-PHP-323330?style=flat-square&logo=php)
+### 📡 SQL & No-SQL
+![MongoDB](https://img.shields.io/badge/-MongoDB-323330?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-323330?style=flat-square&logo=mysql)
+### 🖌️ Outil de maquettage
+![Figma](https://img.shields.io/badge/-Figma-323330?style=flat-square&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-323330?style=flat-square&logo=adobexd)
