@@ -32,4 +32,3 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-323330?style=flat-square&logo=mysql)
 ### 🖌️ Outil de maquettage
 ![Figma](https://img.shields.io/badge/-Figma-323330?style=flat-square&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-323330?style=flat-square&logo=adobexd)
