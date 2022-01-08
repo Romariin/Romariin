@@ -1,7 +1,7 @@
 # *👋 Hello World*
 ### ❓ Qui suis-je
  - Je me nomme **Romain** *(aka Romarin)*
- - 21 ans et toutes mes dents
+ - 22 ans et toutes mes dents
  - Junior Dev Web
 ### 🌱 Projets
  -  🙇‍♂️ Étudiant **[La Fabrique du Numérique](https://fabriquenumerique.fr/)** \
