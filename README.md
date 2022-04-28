@@ -6,8 +6,6 @@
 ### 🌱 Projets
  -  🙇‍♂️ Étudiant **[La Fabrique du Numérique](https://fabriquenumerique.fr/)** \
     ➥ `Formation Développeur Web & Web Mobile`
- - 🧠 Lead. Dev **[YSL](https://discord.gg/4zYfYhdHAW)** \
-    ➥ `Projet BOT Discord — Service de listing de serveur`
 ### 🌐 Réseaux
 <a href="https://romarin.dev"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-323330?style=flat-square&logo=icloud&logoColor=white"/></a>
 <a href="https://discord.bio/p/Romarin"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a> 
